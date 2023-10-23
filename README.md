@@ -1,2 +1,2 @@
 # Hankyung-Automation
-Kankyung-article crawling and summarization, save, and upload automation projects
+Hankyung-article crawling and summarization, save, and upload automation projects
