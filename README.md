@@ -15,7 +15,7 @@ Hankyung-article crawling and summarization, save, and upload automation project
     ```
     !pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
     ```
-- OpenAI API
+- OpenAI API (openai >= 1.0.0)
   ```
   !pip install openai
   ```
