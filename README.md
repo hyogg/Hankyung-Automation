@@ -18,7 +18,9 @@ Hankyung-article crawling and summarization, save, and upload automation project
 4. Run ```crawling.ipynb```.  
    If Google Drive malfunctions, test it in ```drive_test.ipynb```.  
   <br>
+
 ## Environments
+
 ### 1. Used
 - Python (Jupyter Notebook)
 - Selenium (Crawling)
